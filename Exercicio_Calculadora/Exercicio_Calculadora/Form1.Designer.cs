@@ -65,8 +65,8 @@
             this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button4.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button4.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightGray;
-            this.button4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightGray;
+            this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Firebrick;
+            this.button4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Firebrick;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Niagara Solid", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.White;
@@ -242,7 +242,7 @@
             this.button5.Location = new System.Drawing.Point(498, 449);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(168, 39);
-            this.button5.TabIndex = 5;
+            this.button5.TabIndex = 6;
             this.button5.Text = "MULTIPLICAR";
             this.button5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button5.UseVisualStyleBackColor = false;
@@ -264,7 +264,7 @@
             this.button6.Location = new System.Drawing.Point(498, 391);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(166, 39);
-            this.button6.TabIndex = 6;
+            this.button6.TabIndex = 5;
             this.button6.Text = "DIVIDIR";
             this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button6.UseVisualStyleBackColor = false;

@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Etec\\T\u00E9cnico\\DS\\Exercicio_Calculadora\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Exercicio_Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480B21DC-8611-41DC-B5F4-0C378F441070}|Exercicio_Calculadora\\Exercicio_Calculadora.csproj|C:\\Users\\Pedro\\Desktop\\Exercicio_Calculadora\\exercicio_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{480B21DC-8611-41DC-B5F4-0C378F441070}|Exercicio_Calculadora\\Exercicio_Calculadora.csproj|solutionrelative:exercicio_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480B21DC-8611-41DC-B5F4-0C378F441070}|Exercicio_Calculadora\\Exercicio_Calculadora.csproj|c:\\users\\pedro\\desktop\\exercicio_calculadora\\exercicio_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480B21DC-8611-41DC-B5F4-0C378F441070}|Exercicio_Calculadora\\Exercicio_Calculadora.csproj|solutionrelative:exercicio_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Exercicio_Calculadora\\Exercicio_Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercicio_Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Exercicio_Calculadora\\Exercicio_Calculadora\\Form1.cs",
+              "RelativeToolTip": "Exercicio_Calculadora\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T00:35:41.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Exercicio_Calculadora\\Exercicio_Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercicio_Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Exercicio_Calculadora\\Exercicio_Calculadora\\Form1.cs [Design]",
+              "RelativeToolTip": "Exercicio_Calculadora\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:33:02.361Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

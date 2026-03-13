@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Calculo_de_Salario_Bruto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D7E98-DD2E-42FC-B4EF-4092AD297078}|Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto.csproj|c:\\users\\pedro\\desktop\\calculo_de_salario_bruto\\calculo_de_salario_bruto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB2D7E98-DD2E-42FC-B4EF-4092AD297078}|Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto.csproj|solutionrelative:calculo_de_salario_bruto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2D7E98-DD2E-42FC-B4EF-4092AD297078}|Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto.csproj|C:\\Users\\Pedro\\Desktop\\Calculo_de_Salario_Bruto\\calculo_de_salario_bruto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2D7E98-DD2E-42FC-B4EF-4092AD297078}|Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto.csproj|solutionrelative:calculo_de_salario_bruto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculo_de_Salario_Bruto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculo_de_Salario_Bruto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:30:16.185Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculo_de_Salario_Bruto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Calculo_de_Salario_Bruto\\Calculo_de_Salario_Bruto\\Form1.cs",
+              "RelativeToolTip": "Calculo_de_Salario_Bruto\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:30:36.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
