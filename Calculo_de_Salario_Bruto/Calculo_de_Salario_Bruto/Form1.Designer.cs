@@ -48,12 +48,29 @@
             label10 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
+            // label10
+            // 
+            label10.BackColor = System.Drawing.Color.White;
+            label10.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            label10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            label10.Font = new System.Drawing.Font("NSimSun", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            label10.ForeColor = System.Drawing.Color.DarkGoldenrod;
+            label10.Image = ((System.Drawing.Image)(resources.GetObject("label10.Image")));
+            label10.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            label10.Location = new System.Drawing.Point(184, 37);
+            label10.Name = "label10";
+            label10.Size = new System.Drawing.Size(641, 65);
+            label10.TabIndex = 15;
+            label10.Text = "CALCULADORA DE SALÁRIO";
+            label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            label10.Click += new System.EventHandler(this.label10_Click);
+            // 
             // textBox1
             // 
             this.textBox1.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.textBox1.Font = new System.Drawing.Font("Mongolian Baiti", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.ForeColor = System.Drawing.Color.White;
-            this.textBox1.Location = new System.Drawing.Point(75, 237);
+            this.textBox1.Location = new System.Drawing.Point(69, 298);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(294, 34);
@@ -67,7 +84,7 @@
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label1.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(75, 177);
+            this.label1.Location = new System.Drawing.Point(69, 238);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(294, 57);
             this.label1.TabIndex = 3;
@@ -81,7 +98,7 @@
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label2.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(75, 301);
+            this.label2.Location = new System.Drawing.Point(69, 362);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(294, 56);
             this.label2.TabIndex = 4;
@@ -95,7 +112,7 @@
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(75, 428);
+            this.label3.Location = new System.Drawing.Point(69, 489);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(294, 51);
             this.label3.TabIndex = 5;
@@ -108,7 +125,7 @@
             this.textBox2.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.textBox2.Font = new System.Drawing.Font("Mongolian Baiti", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.ForeColor = System.Drawing.Color.White;
-            this.textBox2.Location = new System.Drawing.Point(75, 361);
+            this.textBox2.Location = new System.Drawing.Point(69, 422);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(294, 34);
@@ -120,7 +137,7 @@
             this.textBox3.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.textBox3.Font = new System.Drawing.Font("Mongolian Baiti", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.ForeColor = System.Drawing.Color.White;
-            this.textBox3.Location = new System.Drawing.Point(75, 482);
+            this.textBox3.Location = new System.Drawing.Point(69, 543);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(294, 34);
@@ -135,7 +152,7 @@
             this.label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label4.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(597, 177);
+            this.label4.Location = new System.Drawing.Point(591, 238);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(215, 57);
             this.label4.TabIndex = 8;
@@ -148,10 +165,11 @@
             this.label5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label5.Font = new System.Drawing.Font("Mongolian Baiti", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(826, 188);
+            this.label5.Location = new System.Drawing.Point(820, 249);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(108, 34);
+            this.label5.Size = new System.Drawing.Size(119, 34);
             this.label5.TabIndex = 9;
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // button1
@@ -160,16 +178,17 @@
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.button1.FlatAppearance.BorderSize = 2;
-            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
-            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
+            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Unispace", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("NSimSun", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(419, 312);
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(413, 373);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(122, 34);
             this.button1.TabIndex = 4;
-            this.button1.Text = "Calcular";
+            this.button1.Text = "CALCULAR";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -180,7 +199,7 @@
             this.label6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label6.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(597, 301);
+            this.label6.Location = new System.Drawing.Point(591, 362);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(215, 56);
             this.label6.TabIndex = 11;
@@ -194,10 +213,11 @@
             this.label7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label7.Font = new System.Drawing.Font("Mongolian Baiti", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(826, 312);
+            this.label7.Location = new System.Drawing.Point(820, 373);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(108, 34);
+            this.label7.Size = new System.Drawing.Size(119, 34);
             this.label7.TabIndex = 12;
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label8
             // 
@@ -206,7 +226,7 @@
             this.label8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label8.Font = new System.Drawing.Font("Mongolian Baiti", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(597, 429);
+            this.label8.Location = new System.Drawing.Point(591, 490);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(215, 53);
             this.label8.TabIndex = 13;
@@ -218,27 +238,11 @@
             this.label9.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.label9.Font = new System.Drawing.Font("Mongolian Baiti", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(826, 437);
+            this.label9.Location = new System.Drawing.Point(820, 498);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(108, 34);
+            this.label9.Size = new System.Drawing.Size(119, 34);
             this.label9.TabIndex = 14;
-            // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.BackColor = System.Drawing.Color.White;
-            label10.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            label10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            label10.Font = new System.Drawing.Font("Unispace", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label10.ForeColor = System.Drawing.Color.DarkGoldenrod;
-            label10.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            label10.Location = new System.Drawing.Point(185, 37);
-            label10.Name = "label10";
-            label10.Size = new System.Drawing.Size(665, 60);
-            label10.TabIndex = 15;
-            label10.Text = "CALCULADORA DE SALÁRIO";
-            label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            label10.Click += new System.EventHandler(this.label10_Click);
+            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button2
             // 
@@ -250,13 +254,16 @@
             this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.OrangeRed;
             this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.OrangeRed;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Unispace", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Font = new System.Drawing.Font("NSimSun", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(419, 352);
+            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
+            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.Location = new System.Drawing.Point(413, 413);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(122, 34);
             this.button2.TabIndex = 6;
-            this.button2.Text = "Sair";
+            this.button2.Text = "SAIR";
+            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -267,16 +274,19 @@
             this.button3.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button3.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.button3.FlatAppearance.BorderSize = 2;
-            this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
-            this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
+            this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Unispace", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Font = new System.Drawing.Font("NSimSun", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(419, 272);
+            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
+            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.Location = new System.Drawing.Point(413, 333);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(122, 34);
             this.button3.TabIndex = 5;
-            this.button3.Text = "Limpar";
+            this.button3.Text = "LIMPAR";
+            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 

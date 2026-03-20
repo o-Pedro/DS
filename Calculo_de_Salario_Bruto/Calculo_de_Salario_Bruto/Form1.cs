@@ -21,21 +21,36 @@ namespace Calculo_de_Salario_Bruto
 
         private void label5_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             double ht, vh, sb, pd, sl, td;
+
             ht = Convert.ToDouble(this.textBox1.Text);
             vh = Convert.ToDouble(this.textBox2.Text);
             pd = Convert.ToDouble(this.textBox3.Text);
+
             sb = ht * vh;
             td = (pd / 100) * sb;
             sl = sb - td;
+
             label5.Text = sb.ToString();
             label7.Text = td.ToString();
             label9.Text = sl.ToString();
+
+            label5.Text = sb.ToString("F2");
+            label7.Text = td.ToString("F2");
+            label9.Text = sl.ToString("F2");
+
+            //---Tipos de formatação para 2 casas decimais---;
+
+                //label1.Text = Math.Round(SL, 2).ToString();
+
+                //label1.Text = SL.ToString("C");
+
+                //label1.Text = Sl.ToString("0.00");
         }
 
         private void label10_Click(object sender, EventArgs e)

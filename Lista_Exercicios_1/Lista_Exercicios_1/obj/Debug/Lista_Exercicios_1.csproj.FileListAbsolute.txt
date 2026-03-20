@@ -1,0 +1,12 @@
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\bin\Debug\Lista_Exercicios_1.exe.config
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\bin\Debug\Lista_Exercicios_1.exe
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\bin\Debug\Lista_Exercicios_1.pdb
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form1.resources
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.exe
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.pdb
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\bin\Debug\MaterialSkin.dll
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Ex.7AABA71E.Up2Date
