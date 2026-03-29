@@ -12,8 +12,7 @@ namespace Lista_Exercicios_1
 {
     public partial class Form1 : Form
     {
-        double n1 = 0, n2 = 0, res = 0;
-
+        int n1 = 0, n2 = 0, res = 0;
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
@@ -33,8 +32,8 @@ namespace Lista_Exercicios_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            n1 = Convert.ToDouble(textBox1.Text);
-            n2 = Convert.ToDouble(textBox2.Text);
+            n1 = Convert.ToInt32(textBox1.Text);
+            n2 = Convert.ToInt32(textBox2.Text);
             res = n1 + n2;
             label5.Text = res.ToString();
         }
