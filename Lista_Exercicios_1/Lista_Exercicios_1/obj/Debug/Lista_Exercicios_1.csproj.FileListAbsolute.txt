@@ -75,3 +75,6 @@ C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_E
 C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form11.resources
 C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form12.resources
 C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form13.resources
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form14.resources
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form15.resources
+C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form16.resources

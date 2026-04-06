@@ -50,7 +50,7 @@
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(689, 287);
+            this.textBox3.Location = new System.Drawing.Point(689, 298);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(283, 88);
@@ -65,7 +65,7 @@
             this.label6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label6.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(390, 509);
+            this.label6.Location = new System.Drawing.Point(390, 520);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(234, 22);
             this.label6.TabIndex = 52;
@@ -86,7 +86,7 @@
             this.button4.ForeColor = System.Drawing.Color.White;
             this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
             this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button4.Location = new System.Drawing.Point(585, 435);
+            this.button4.Location = new System.Drawing.Point(585, 446);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(119, 42);
             this.button4.TabIndex = 6;
@@ -109,7 +109,7 @@
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button2.Location = new System.Drawing.Point(460, 435);
+            this.button2.Location = new System.Drawing.Point(460, 446);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(119, 42);
             this.button2.TabIndex = 5;
@@ -125,7 +125,7 @@
             this.label5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label5.Font = new System.Drawing.Font("MS Reference Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(43, 534);
+            this.label5.Location = new System.Drawing.Point(43, 545);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(271, 52);
             this.label5.TabIndex = 50;
@@ -144,7 +144,7 @@
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button1.Location = new System.Drawing.Point(305, 435);
+            this.button1.Location = new System.Drawing.Point(305, 446);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(149, 42);
             this.button1.TabIndex = 4;
@@ -156,7 +156,7 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(366, 287);
+            this.textBox2.Location = new System.Drawing.Point(366, 298);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(283, 88);
@@ -167,7 +167,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(37, 287);
+            this.textBox1.Location = new System.Drawing.Point(37, 298);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(283, 88);
@@ -182,7 +182,7 @@
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(719, 262);
+            this.label3.Location = new System.Drawing.Point(719, 273);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(223, 22);
             this.label3.TabIndex = 49;
@@ -196,7 +196,7 @@
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label2.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(67, 262);
+            this.label2.Location = new System.Drawing.Point(67, 273);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(223, 22);
             this.label2.TabIndex = 48;
@@ -210,7 +210,7 @@
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(221, 120);
+            this.label1.Location = new System.Drawing.Point(221, 131);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(566, 42);
             this.label1.TabIndex = 47;
@@ -225,7 +225,7 @@
             this.label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label4.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(63, 509);
+            this.label4.Location = new System.Drawing.Point(63, 520);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(231, 22);
             this.label4.TabIndex = 53;
@@ -238,7 +238,7 @@
             this.label7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label7.Font = new System.Drawing.Font("MS Reference Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(372, 534);
+            this.label7.Location = new System.Drawing.Point(372, 545);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(271, 52);
             this.label7.TabIndex = 54;
@@ -251,7 +251,7 @@
             this.label8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label8.Font = new System.Drawing.Font("MS Reference Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Black;
-            this.label8.Location = new System.Drawing.Point(695, 534);
+            this.label8.Location = new System.Drawing.Point(695, 545);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(271, 52);
             this.label8.TabIndex = 55;
@@ -265,7 +265,7 @@
             this.label9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label9.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(396, 262);
+            this.label9.Location = new System.Drawing.Point(396, 273);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(223, 22);
             this.label9.TabIndex = 56;
@@ -279,7 +279,7 @@
             this.label10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label10.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(713, 509);
+            this.label10.Location = new System.Drawing.Point(713, 520);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(234, 22);
             this.label10.TabIndex = 57;
@@ -291,6 +291,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.CancelButton = this.button4;
             this.ClientSize = new System.Drawing.Size(1008, 729);
             this.Controls.Add(this.label10);
@@ -310,10 +312,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form7";
-            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Exercicio_7";
             this.ResumeLayout(false);

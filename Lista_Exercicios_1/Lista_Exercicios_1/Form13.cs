@@ -35,7 +35,8 @@ namespace Lista_Exercicios_1
             totv = Convert.ToDouble(textBox3.Text);
             nome = (textBox1.Text);
 
-            salf = sali + (totv * 0.2);
+            totv = sali * (totv / 100);
+            salf = sali + totv;
 
 
             label5.Text = sali.ToString();
