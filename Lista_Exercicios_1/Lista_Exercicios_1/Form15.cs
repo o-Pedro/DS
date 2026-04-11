@@ -29,6 +29,11 @@ namespace Lista_Exercicios_1
             label5.Text = " ";
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void button3_Click(object sender, EventArgs e)
         {
             val = Convert.ToDouble(textBox1.Text);

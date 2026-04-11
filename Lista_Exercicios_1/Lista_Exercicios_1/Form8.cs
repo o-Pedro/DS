@@ -16,6 +16,11 @@ namespace Lista_Exercicios_1
     {
         double n1 = 0, n2 = 0, n3 = 0, med1 = 0, n4 = 0, n5 = 0, n6 = 0, med2 = 0, n7 = 0, n8 = 0, n9 = 0, med3 = 0, n10 = 0, n11 = 0, n12 = 0, med4 = 0, n13 = 0, n14 = 0, n15 = 0, med5 = 0;
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void button4_Click(object sender, EventArgs e)
         {
             Application.Exit();

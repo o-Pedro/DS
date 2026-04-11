@@ -46,11 +46,14 @@ namespace Lista_Exercicios_1
             label5.Text = som.ToString();
         }
 
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
-            n1 = Convert.ToInt32(textBox1.Text);
-            som = n1 * n1;
-            label5.Text = som.ToString();
+
         }
     }
 }

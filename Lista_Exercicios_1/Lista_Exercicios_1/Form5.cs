@@ -18,6 +18,11 @@ namespace Lista_Exercicios_1
             InitializeComponent();
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void Form5_Load(object sender, EventArgs e)
         {
 

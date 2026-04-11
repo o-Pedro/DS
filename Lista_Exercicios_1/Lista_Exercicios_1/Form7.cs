@@ -29,6 +29,11 @@ namespace Lista_Exercicios_1
             Application.Exit();
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         public Form7()
         {
             InitializeComponent();

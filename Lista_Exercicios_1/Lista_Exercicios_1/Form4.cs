@@ -35,6 +35,11 @@ namespace Lista_Exercicios_1
             Application.Exit();
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             n1 = Convert.ToInt32(textBox1.Text);

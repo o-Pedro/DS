@@ -13,6 +13,12 @@ namespace Lista_Exercicios_1
     public partial class Form9 : Form
     {
         int n1 = 0, v1 = 0, v2 = 0, v3 = 0, v4 = 0, v5 = 0, v6 = 0, v7 = 0, v8 = 0, v9 = 0, v10 = 0;
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         public Form9()
         {
             InitializeComponent();

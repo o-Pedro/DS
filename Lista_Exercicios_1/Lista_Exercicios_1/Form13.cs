@@ -47,6 +47,11 @@ namespace Lista_Exercicios_1
             label10.Text = "R$ " + salf.ToString("F2");
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void button4_Click(object sender, EventArgs e)
         {
             Application.Exit();

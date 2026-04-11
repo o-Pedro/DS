@@ -30,12 +30,12 @@ namespace Lista_Exercicios_1
             label5.Text = " ";
         }
 
-        private void Form10_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Form10_Load(object sender, EventArgs e)
         {
 
         }
