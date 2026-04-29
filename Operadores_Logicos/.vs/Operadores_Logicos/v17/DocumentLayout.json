@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\operadores_logicos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|solutionrelative:operadores_logicos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\operadores_logicos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|solutionrelative:operadores_logicos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|d:\\etec\\t\u00E9cnico\\ds\\operadores_logicos\\operadores_logicos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|solutionrelative:operadores_logicos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\operadores_logicos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|solutionrelative:operadores_logicos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\operadores_logicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|solutionrelative:operadores_logicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\operadores_logicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|solutionrelative:operadores_logicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\operadores_logicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07171EA0-76F1-4352-9A5B-38D1288FE281}|Operadores_Logicos\\Operadores_Logicos.csproj|solutionrelative:operadores_logicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Program.cs",
+              "RelativeDocumentMoniker": "Operadores_Logicos\\Program.cs",
+              "ToolTip": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Program.cs",
+              "RelativeToolTip": "Operadores_Logicos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:43:10.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form1.cs",
+              "RelativeDocumentMoniker": "Operadores_Logicos\\Form1.cs",
+              "ToolTip": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form1.cs [Design]",
+              "RelativeToolTip": "Operadores_Logicos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:48:08.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form1.cs",
+              "RelativeDocumentMoniker": "Operadores_Logicos\\Form1.cs",
+              "ToolTip": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form1.cs",
+              "RelativeToolTip": "Operadores_Logicos\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:57:56.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form2.cs",
+              "RelativeDocumentMoniker": "Operadores_Logicos\\Form2.cs",
+              "ToolTip": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form2.cs [Design]",
+              "RelativeToolTip": "Operadores_Logicos\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:00:34.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form2.cs",
+              "RelativeDocumentMoniker": "Operadores_Logicos\\Form2.cs",
+              "ToolTip": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form2.cs",
+              "RelativeToolTip": "Operadores_Logicos\\Form2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:01:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form3.cs",
+              "RelativeDocumentMoniker": "Operadores_Logicos\\Form3.cs",
+              "ToolTip": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form3.cs [Design]",
+              "RelativeToolTip": "Operadores_Logicos\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:13:25.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form3.cs",
+              "RelativeDocumentMoniker": "Operadores_Logicos\\Form3.cs",
+              "ToolTip": "D:\\Etec\\T\u00E9cnico\\DS\\Operadores_Logicos\\Operadores_Logicos\\Form3.cs",
+              "RelativeToolTip": "Operadores_Logicos\\Form3.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:14:27.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
