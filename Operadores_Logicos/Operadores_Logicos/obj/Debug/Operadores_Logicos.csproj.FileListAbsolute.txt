@@ -22,3 +22,4 @@ D:\Etec\Técnico\DS\Operadores_Logicos\Operadores_Logicos\obj\Debug\Operadores_L
 D:\Etec\Técnico\DS\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.exe.config
 D:\Etec\Técnico\DS\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.exe
 D:\Etec\Técnico\DS\Operadores_Logicos\Operadores_Logicos\bin\Debug\Operadores_Logicos.pdb
+D:\Etec\Técnico\DS\Operadores_Logicos\Operadores_Logicos\obj\Debug\Operadores_Logicos.Form4.resources

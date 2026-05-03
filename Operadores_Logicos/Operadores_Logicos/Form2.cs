@@ -45,5 +45,10 @@ namespace Operadores_Logicos
                 textBox3.AppendText("Não pode entrar para a equipe de natação");
             }
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

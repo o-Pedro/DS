@@ -32,5 +32,13 @@ namespace Operadores_Logicos
             this.Hide();
             form3.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.FormClosed += (s, args) => this.Show();
+            this.Hide();
+            form4.Show();
+        }
     }
 }

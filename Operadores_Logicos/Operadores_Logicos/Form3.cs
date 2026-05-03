@@ -24,10 +24,11 @@ namespace Operadores_Logicos
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
+            try 
             {
                 string curso;
-                curso = textBox1.Text.ToUpper();
+                curso = textBox1.Text.ToUpper(); //Converte todas letras para maiúscula
+                //try catch não trata espaços vazios para string
 
                 if (string.IsNullOrWhiteSpace(this.textBox1.Text))
                 {
