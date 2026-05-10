@@ -31,6 +31,7 @@
             this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.desvioCondicionalIFToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
+            this.switchComNúmeroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -39,7 +40,8 @@
             this.menuStrip2.BackColor = System.Drawing.Color.White;
             this.menuStrip2.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.desvioCondicionalIFToolStripMenuItem});
+            this.desvioCondicionalIFToolStripMenuItem,
+            this.switchComNúmeroToolStripMenuItem});
             this.menuStrip2.Location = new System.Drawing.Point(0, 0);
             this.menuStrip2.Name = "menuStrip2";
             this.menuStrip2.Size = new System.Drawing.Size(1008, 27);
@@ -69,6 +71,13 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // switchComNúmeroToolStripMenuItem
+            // 
+            this.switchComNúmeroToolStripMenuItem.Name = "switchComNúmeroToolStripMenuItem";
+            this.switchComNúmeroToolStripMenuItem.Size = new System.Drawing.Size(168, 23);
+            this.switchComNúmeroToolStripMenuItem.Text = "Switch com número";
+            this.switchComNúmeroToolStripMenuItem.Click += new System.EventHandler(this.switchComNúmeroToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -97,6 +106,7 @@
         private System.Windows.Forms.MenuStrip menuStrip2;
         private System.Windows.Forms.ToolStripMenuItem desvioCondicionalIFToolStripMenuItem;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ToolStripMenuItem switchComNúmeroToolStripMenuItem;
     }
 }
 

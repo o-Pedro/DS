@@ -26,41 +26,48 @@ namespace Desvio_Condicional_Seletivo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string mes;
-            mes = textBox1.Text.ToLower();
-
-            if (string.IsNullOrWhiteSpace(this.textBox1.Text))
+            try
             {
-                MessageBox.Show("Por favor, insira o mês.");
-                return;
+                string mes;
+                mes = textBox1.Text.ToLower();
+
+                if (string.IsNullOrWhiteSpace(this.textBox1.Text))
+                {
+                    MessageBox.Show("Por favor, insira o mês.");
+                    return;
+                }
+
+                switch (mes)
+                {
+                    case "janeiro":
+                    case "março":
+                    case "maio":
+                    case "julho":
+                    case "agosto":
+                    case "outubro":
+                    case "dezembro":
+                        label3.Text = "Este mês tem 31 dias";
+                        break;
+
+                    case "abril":
+                    case "junho":
+                    case "setembro":
+                    case "novembro":
+                        label3.Text = "Este mês tem 30 dias";
+                        break;
+
+                    case "fevereiro":
+                        label3.Text = "Este mês tem 28 ou 29 dias";
+                        break;
+
+                    default:
+                        MessageBox.Show("Por favor, insira o mês corretamente.");
+                        break;
+                }
             }
-
-            switch (mes)
+            catch (Exception ex)
             {
-                case "janeiro":
-                case "março":
-                case "maio":
-                case "julho":
-                case "agosto":
-                case "outubro":
-                case "dezembro":
-                    label3.Text = "Este mês tem 31 dias";
-                    break;
-
-                case "abril":
-                case "junho":
-                case "setembro":
-                case "novembro":
-                    label3.Text = "Este mês tem 30 dias";
-                    break;
-
-                case "fevereiro":
-                    label3.Text = "Este mês tem 28 ou 29 dias";
-                    break;
-
-                default:
-                    MessageBox.Show("Por favor, insira o mês corretamente.");
-                    break;
+                MessageBox.Show("Erro: " + ex.Message);
             }
         }
 
@@ -73,6 +80,11 @@ namespace Desvio_Condicional_Seletivo
         {
             textBox1.Clear();
             label3.Text = " ";
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

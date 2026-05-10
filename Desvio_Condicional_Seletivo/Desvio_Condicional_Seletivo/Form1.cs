@@ -38,5 +38,13 @@ namespace Desvio_Condicional_Seletivo
                 
             }
         }
+
+        private void switchComNúmeroToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.FormClosed += (s, args) => this.Show();
+            this.Hide();
+            form3.Show();
+        }
     }
 }

@@ -79,3 +79,15 @@ C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_E
 C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form15.resources
 C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form16.resources
 C:\Users\Aluno\Downloads\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form17.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form10.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form11.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form12.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form13.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form14.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form15.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form16.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form17.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form6.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form7.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form8.resources
+D:\Etec\Técnico\DS\Lista_Exercicios_1\Lista_Exercicios_1\obj\Debug\Lista_Exercicios_1.Form9.resources
