@@ -97,6 +97,7 @@
             this.toolStripButton3.Text = "List Box";
             this.toolStripButton3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolStripButton3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
             // toolStripButton4
             // 
@@ -111,6 +112,7 @@
             this.toolStripButton4.Text = "Combo Box";
             this.toolStripButton4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolStripButton4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.toolStripButton4.Click += new System.EventHandler(this.toolStripButton4_Click);
             // 
             // button1
             // 
@@ -143,6 +145,7 @@
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);

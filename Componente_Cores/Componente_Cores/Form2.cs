@@ -40,9 +40,11 @@ namespace Componente_Cores
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
-            this.BackColor = Color.FromArgb (0, 0, 0);
-            //this.BackColor = Color.FromArgb (0, 0, 0)
-            radioButton4.ForeColor = Color.FromArgb (0, 0, 0);
+            this.BackColor = Color.Green;
+
+            //this.BackColor = Color.FromArgb (0, 0, 0), se quiser usar RGB
+
+            radioButton4.ForeColor = Color.Green;
         }
 
         private void button2_Click(object sender, EventArgs e)

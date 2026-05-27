@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|C:\\Users\\Aluno\\Downloads\\Componente_Cores\\componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|C:\\Users\\Aluno\\Downloads\\Componente_Cores\\componente_cores\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|C:\\Users\\Aluno\\Downloads\\Componente_Cores\\componente_cores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|c:\\users\\aluno\\downloads\\componente_cores\\componente_cores\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|C:\\Users\\Aluno\\Downloads\\Componente_Cores\\componente_cores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|C:\\Users\\Aluno\\Downloads\\Componente_Cores\\componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67624B38-3007-42D1-923F-F9F31710FEB0}|Componente_Cores\\Componente_Cores.csproj|solutionrelative:componente_cores\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form1.cs",
               "RelativeDocumentMoniker": "Componente_Cores\\Form1.cs",
@@ -54,20 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form1.cs",
               "RelativeDocumentMoniker": "Componente_Cores\\Form1.cs",
               "ToolTip": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form1.cs",
               "RelativeToolTip": "Componente_Cores\\Form1.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAADwvyUAAABKAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T10:50:36.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form2.cs",
               "RelativeDocumentMoniker": "Componente_Cores\\Form2.cs",
@@ -79,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form2.cs",
               "RelativeDocumentMoniker": "Componente_Cores\\Form2.cs",
@@ -92,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form3.cs",
               "RelativeDocumentMoniker": "Componente_Cores\\Form3.cs",
@@ -104,15 +112,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form3.cs",
               "RelativeDocumentMoniker": "Componente_Cores\\Form3.cs",
               "ToolTip": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form3.cs",
               "RelativeToolTip": "Componente_Cores\\Form3.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAADwv0IAAAAZAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T10:57:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form4.cs",
+              "RelativeDocumentMoniker": "Componente_Cores\\Form4.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form4.cs [Design]",
+              "RelativeToolTip": "Componente_Cores\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:38:28.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form4.cs",
+              "RelativeDocumentMoniker": "Componente_Cores\\Form4.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Componente_Cores\\Componente_Cores\\Form4.cs",
+              "RelativeToolTip": "Componente_Cores\\Form4.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvyoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:38:35.673Z",
               "EditorCaption": ""
             }
           ]
