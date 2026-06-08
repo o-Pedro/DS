@@ -1,0 +1,31 @@
+Do que se trata a linguagem de programação C#?
+
+	A linguagem C é uma linguagem de programação de alto nível que foi criada nos anos 1970 para desenvolvimento de sistemas operacionais. Ela é amplamente utilizada em sistemas embarcados.
+
+Quando surgiu está linguagem?
+
+	O C# surgiu no ano 2000, desenvolvido pela Microsoft como parte de sua iniciativa .NET. Criada por Anders Hejlsberg, a linguagem foi lançada para ser uma opção moderna e orientada a objetos, sendo amplamente distribuída pela primeira vez em julho daquele ano. 
+
+Oque é o Microsoft Visual Studio?
+
+	O Visual Studio é um ambiente de desenvolvimento integrado (IDE) completo que centraliza todo o ciclo de criação de software. Ele permite escrever, editar, depurar, compilar e publicar aplicações, oferecendo recursos como conclusão de código, controle de versão e extensões para otimizar o processo de desenvolvimento.
+
+
+Qual a ultima versão do Microsoft Visual Studio?
+
+	A ultima versão criada do Visual Studio é a versão 2026, lançada no início do ano. Elá é atualmente a mais estável e mais recente, pronta para produção das novas medidas de códigos
+
+Qual a diferença entre os parádigmas de programação: 
+
+	-Programação orientada em objetos:
+
+			De maneira geral, a programação orientada a objetos é um paradigma de programação que organiza o código ao redor de objetos. Ou seja, é uma forma de programar que simplifica programas complexos dividindo-os em unidades menores, que são os objetos.
+
+	-Programação estruturada:
+
+			A programação estruturada usa estruturas de vários tipos como estruturas condicionais, estruturas de repetição, estruturas de dados. Ela tem um início e uma sequencia de passos dessas estruturas que definirá qual é o próximo passo que será executado.
+
+O que significa compilador em uma linguagem de programação?
+
+	O compilador é um programa que lê e analisa o código fonte da aplicação, ou seja, o código que nós escrevemos, e gera a partir dele um código binário que pode ser executado.
+	

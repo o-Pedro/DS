@@ -1,0 +1,36 @@
+ALGORITIMO
+
+LER DOIS NUMEROS E EFETUAR AS 4 OPERAÇÕES ENTRE ELES.
+
+O TEMANHO DO FORMULÁRIO DEVERÁ SER 1024 X 768
+
+O USUARIO NÃO PODERÁ REDIMENSIONAR O FORMULÁRIO
+
+escolha uma imagem para o formulário;
+
+Atribua a transparencia aos botões;
+
+o titulo do formulário deverá ser "CALCULADORA"
+
+na label do resultado, coloque efeito de profundidade;
+
+retire as possibilidades de minimizar e maximizar o formulário;
+
+O FORMULÁRIO DEVERÁ SER EXECUTADO NO CENTRO DA TELA
+
+ÍCONES NOS BOTÕES
+
+ICONE NO FORMULARIO
+
+ICONE NO PROJETO
+
+BOTOES DE LIMPAR E SAIR
+
+CONFIGURE A TECLA ESC
+
+CONFIGURE A ORDEM DE TABS DOS OBJETOS
+
+
+
+
+

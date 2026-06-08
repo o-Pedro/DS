@@ -86,6 +86,7 @@
             this.comboBoxToolStripMenuItem.Name = "comboBoxToolStripMenuItem";
             this.comboBoxToolStripMenuItem.Size = new System.Drawing.Size(121, 32);
             this.comboBoxToolStripMenuItem.Text = "ComboBox";
+            this.comboBoxToolStripMenuItem.Click += new System.EventHandler(this.comboBoxToolStripMenuItem_Click);
             // 
             // button1
             // 

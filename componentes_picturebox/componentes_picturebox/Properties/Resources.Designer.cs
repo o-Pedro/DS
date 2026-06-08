@@ -19,7 +19,7 @@ namespace componentes_picturebox.Properties {
     // através de uma ferramenta como ResGen ou Visual Studio.
     // Para adicionar ou remover um associado, edite o arquivo .ResX e execute ResGen novamente
     // com a opção /str, ou recrie o projeto do VS.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -57,6 +57,16 @@ namespace componentes_picturebox.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _6b6764a9c530781b44ec6b3d99b2abd0 {
+            get {
+                object obj = ResourceManager.GetObject("6b6764a9c530781b44ec6b3d99b2abd0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -193,6 +203,16 @@ namespace componentes_picturebox.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pica {
+            get {
+                object obj = ResourceManager.GetObject("pica", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap portugol {
             get {
                 object obj = ResourceManager.GetObject("portugol", resourceCulture);
@@ -206,6 +226,26 @@ namespace componentes_picturebox.Properties {
         internal static System.Drawing.Bitmap portugol2 {
             get {
                 object obj = ResourceManager.GetObject("portugol2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap thomas {
+            get {
+                object obj = ResourceManager.GetObject("thomas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tomj {
+            get {
+                object obj = ResourceManager.GetObject("tomj", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

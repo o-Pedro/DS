@@ -26,5 +26,21 @@ namespace componentes_picturebox
         {
             this.Close();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox1.Image = Properties.Resources.thomas;
+            }
+            else if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox1.Image = Properties.Resources.pica;
+            }
+            else if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox1.Image = Properties.Resources.tomj;
+            }
+        }
     }
 }

@@ -130,8 +130,17 @@
   <data name="gemini" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gemini.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pica.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="html2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\html2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="portugol2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\portugol2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6b6764a9c530781b44ec6b3d99b2abd0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6b6764a9c530781b44ec6b3d99b2abd0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="grok" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\grok.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,6 +160,9 @@
   <data name="portugol" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\portugol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="tomj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tomj.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="javascript" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\javascript.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -160,7 +172,7 @@
   <data name="claude" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\claude.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="html2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\html2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="thomas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thomas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

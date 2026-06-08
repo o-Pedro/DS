@@ -26,3 +26,17 @@ C:\Users\Aluno\Downloads\componentes_picturebox\componentes_picturebox\obj\Debug
 C:\Users\Aluno\Downloads\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Downloads\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.exe
 C:\Users\Aluno\Downloads\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.pdb
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\bin\Debug\componentes_picturebox.exe.config
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\bin\Debug\componentes_picturebox.exe
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\bin\Debug\componentes_picturebox.pdb
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.Form1.resources
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.Form2.resources
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.Form3.resources
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.Form4.resources
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.Form5.resources
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.Properties.Resources.resources
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.exe
+C:\Users\Pedro\Desktop\componentes_picturebox\componentes_picturebox\obj\Debug\componentes_picturebox.pdb
