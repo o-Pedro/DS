@@ -63,5 +63,10 @@ namespace componentes_picturebox
                 this.pictureBox3.Image = null;
             }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

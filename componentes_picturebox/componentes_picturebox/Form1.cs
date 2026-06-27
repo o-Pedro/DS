@@ -62,5 +62,10 @@ namespace componentes_picturebox
             this.Hide();
             form5.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
