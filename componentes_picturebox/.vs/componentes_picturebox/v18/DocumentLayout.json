@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\componentes_picturebox\\",
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Documents\\GitHub\\DS\\componentes_picturebox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|C:\\Users\\Pedro\\Desktop\\componentes_picturebox\\componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|solutionrelative:componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|C:\\Users\\Pedro\\Documents\\GitHub\\DS\\componentes_picturebox\\componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|solutionrelative:componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|C:\\Users\\Pedro\\Desktop\\componentes_picturebox\\componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|solutionrelative:componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|c:\\users\\pedro\\documents\\github\\ds\\componentes_picturebox\\componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFC57196-EB7C-48C2-A567-D0DBD7206089}|componentes_picturebox\\componentes_picturebox.csproj|solutionrelative:componentes_picturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +30,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\componentes_picturebox\\componentes_picturebox\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Documents\\GitHub\\DS\\componentes_picturebox\\componentes_picturebox\\Form1.cs",
               "RelativeDocumentMoniker": "componentes_picturebox\\Form1.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\componentes_picturebox\\componentes_picturebox\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Pedro\\Documents\\GitHub\\DS\\componentes_picturebox\\componentes_picturebox\\Form1.cs [Design]",
               "RelativeToolTip": "componentes_picturebox\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T23:17:27.93Z",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\componentes_picturebox\\componentes_picturebox\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Documents\\GitHub\\DS\\componentes_picturebox\\componentes_picturebox\\Form1.cs",
               "RelativeDocumentMoniker": "componentes_picturebox\\Form1.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\componentes_picturebox\\componentes_picturebox\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Documents\\GitHub\\DS\\componentes_picturebox\\componentes_picturebox\\Form1.cs",
               "RelativeToolTip": "componentes_picturebox\\Form1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAA6wDsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T23:17:27.976Z",
               "EditorCaption": ""
