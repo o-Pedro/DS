@@ -15,7 +15,7 @@ namespace Pedro_Counter_Strike
         static void Main()
         {
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form2());
+            Application.Run(new Form1());
         }
     }
 }

@@ -35,8 +35,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T12:39:04.874Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "Pedro-Counter_Strike\\Form2.cs",
               "ToolTip": "C:\\Users\\Aluno\\Downloads\\Pedro-Counter_Strike\\Pedro-Counter_Strike\\Form2.cs",
               "RelativeToolTip": "Pedro-Counter_Strike\\Form2.cs",
-              "ViewState": "AQIAAPgAAAAAAAAAAAAqwFwAAAA0AAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAADwv2gAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T12:39:10.26Z",
               "IsPinned": true,

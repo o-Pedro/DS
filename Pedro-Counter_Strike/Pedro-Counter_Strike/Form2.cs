@@ -27,11 +27,24 @@ namespace Pedro_Counter_Strike
             label6.Visible = false;
             label7.Visible = false;
             label8.Visible = false;
+            label9.Visible = false;
+            label10.Visible = false;
+            label11.Visible = false;
+            label12.Visible = false;
+            label13.Visible = false;
+            label14.Visible = false;
 
             pictureBox1.Visible = false;
             pictureBox2.Visible = false;
             pictureBox3.Visible = false;
             pictureBox4.Visible = false;
+            pictureBox5.Visible = false;
+            pictureBox6.Visible = false;
+            pictureBox7.Visible = false;
+            pictureBox8.Visible = false;
+            pictureBox9.Visible = false;
+            pictureBox10.Visible = false;
+            groupBox2.Visible = false;
 
             listBox1.Visible = false;
             groupBox1.Visible = false;
@@ -91,6 +104,13 @@ namespace Pedro_Counter_Strike
                 radioButton4.Text = "mTw";
                 radioButton5.Text = "MIBR";
                 radioButton6.Text = "Natus Vincere";
+
+                checkBox1.Text = "fNx";
+                checkBox2.Text = "f0rest";
+                checkBox3.Text = "markeloff";
+                checkBox4.Text = "TaZ";
+                checkBox5.Text = "SpawN";
+                checkBox6.Text = "HeatoN";
             }
             else if (comboBox1.SelectedIndex == 1)
             {
@@ -100,20 +120,46 @@ namespace Pedro_Counter_Strike
                 radioButton4.Text = "Very Games";
                 radioButton5.Text = "Epsilon eSports";
                 radioButton6.Text = "Reason Gaming";
+
+                checkBox1.Text = "shox";
+                checkBox2.Text = "RpK";
+                checkBox3.Text = "kennyS";
+                checkBox4.Text = "Skadoodle";
+                checkBox5.Text = "Scream";
+                checkBox6.Text = "Ex6TenZ";
             }
             else if (comboBox1.SelectedIndex == 2)
             {
+                radioButton1.Text = "FaZe Clan";
+                radioButton2.Text = "Astralis";
+                radioButton3.Text = "SK Gaming";
+                radioButton4.Text = "G2 eSports";
+                radioButton5.Text = "Virtus.Pro";
+                radioButton6.Text = "Mouz";
 
+                checkBox1.Text = "FalleN";
+                checkBox2.Text = "s1mple";
+                checkBox3.Text = "karrigan";
+                checkBox4.Text = "NiKo";
+                checkBox5.Text = "GeT_RiGhT";
+                checkBox6.Text = "Boombl4";
             }
             else if (comboBox1.SelectedIndex == 3)
             {
+                radioButton1.Text = "Vitality";
+                radioButton2.Text = "Spirit";
+                radioButton3.Text = "Furia";
+                radioButton4.Text = "The Mongolz";
+                radioButton5.Text = "Aurora";
+                radioButton6.Text = "Falcons";
 
+                checkBox1.Text = "ZywOo";
+                checkBox2.Text = "donk";
+                checkBox3.Text = "m0NESY";
+                checkBox4.Text = "ropz";
+                checkBox5.Text = "molodoy";
+                checkBox6.Text = "XANTARES";
             }
-            else if (comboBox1.SelectedIndex == 4)
-            {
-
-            }
-
 
             //Times
             radioButton1.Checked = false;
@@ -122,6 +168,27 @@ namespace Pedro_Counter_Strike
             radioButton4.Checked = false;
             radioButton5.Checked = false;
             radioButton6.Checked = false;
+
+            
+            groupBox2.Visible = true;
+            checkBox1.Checked = false;
+            checkBox2.Checked = false;
+            checkBox3.Checked = false;
+            checkBox4.Checked = false;
+            checkBox5.Checked = false;
+            checkBox6.Checked = false;
+            pictureBox5.Visible = false;
+            pictureBox6.Visible = false;
+            pictureBox7.Visible = false;
+            pictureBox8.Visible = false;
+            pictureBox9.Visible = false;
+            pictureBox10.Visible = false;
+            label9.Visible = false;
+            label10.Visible = false;
+            label11.Visible = false;
+            label12.Visible = false;
+            label13.Visible = false;
+            label14.Visible = false;
 
             label7.Visible = false;
             label8.Visible = false;
@@ -358,6 +425,30 @@ namespace Pedro_Counter_Strike
                 pictureBox3.Image = Properties.Resources.reason_time__1_;
                 pictureBox4.Image = Properties.Resources.reason_logo;
             }
+            if (comboBox1.SelectedIndex == 2)
+            {
+                label5.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label5.Text = "ORGANIZAÇÃO ALEMÃ QUE SE DESTACOU NO CS:GO POR DESENVOLVER JOVENS TALENTOS E FORMAR EQUIPES COMPETITIVAS. AO LONGO DOS ANOS, A MOUZ PARTICIPOU DE GRANDES TORNEIOS E REVELOU JOGADORES QUE SE TORNARAM DESTAQUES INTERNACIONAIS.";
+
+                pictureBox3.Visible = true;
+                pictureBox4.Visible = true;
+                pictureBox3.Image = Properties.Resources.mouz_time;
+                pictureBox4.Image = Properties.Resources.mouz_logo;
+            }
+            if (comboBox1.SelectedIndex == 3)
+            {
+                label5.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label5.Text = "ORGANIZAÇÃO QUE GANHOU ESPAÇO NO CENÁRIO COMPETITIVO DO CS2 AO INVESTIR EM GRANDES JOGADORES E ELENCOS COMPETITIVOS. A EQUIPE PASSOU A PARTICIPAR DE IMPORTANTES TORNEIOS INTERNACIONAIS E BUSCAR SEU ESPAÇO ENTRE AS GRANDES FORÇAS DO CENÁRIO.";
+
+                pictureBox3.Visible = true;
+                pictureBox4.Visible = true;
+                pictureBox3.Image = Properties.Resources.falcons_time2;
+                pictureBox4.Image = Properties.Resources.falcons_logo2;
+            }
 
         }
 
@@ -564,6 +655,18 @@ namespace Pedro_Counter_Strike
                 pictureBox3.Image = Properties.Resources.g2_time;
                 pictureBox4.Image = Properties.Resources.g2_logo;
             }
+            if (comboBox1.SelectedIndex == 3)
+            {
+                label5.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label5.Text = "ORGANIZAÇÃO MONGOL QUE SE TORNOU UM DOS GRANDES DESTAQUES DO CS2, REPRESENTANDO A ÁSIA NO CENÁRIO INTERNACIONAL. COM UM ELENCO JOVEM E TALENTOSO, A EQUIPE CONQUISTOU RESULTADOS IMPORTANTES E PASSOU A COMPETIR DE IGUAL PARA IGUAL COM GRANDES TIMES.";
+
+                pictureBox3.Visible = true;
+                pictureBox4.Visible = true;
+                pictureBox3.Image = Properties.Resources.molgo_time;
+                pictureBox4.Image = Properties.Resources.molgo_logo;
+            }
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
@@ -580,7 +683,7 @@ namespace Pedro_Counter_Strike
                 pictureBox3.Image = Properties.Resources.mibr_time;
                 pictureBox4.Image = Properties.Resources.mibr_logo;
             }
-            else if (comboBox1.SelectedIndex == 1)
+            if (comboBox1.SelectedIndex == 1)
             {
                 label5.Visible = true;
                 label7.Visible = true;
@@ -592,6 +695,275 @@ namespace Pedro_Counter_Strike
                 pictureBox3.Image = Properties.Resources.epsilon_time;
                 pictureBox4.Image = Properties.Resources.epsilon_logo;
             }
+            if (comboBox1.SelectedIndex == 2)
+            {
+                label5.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label5.Text = "ORGANIZAÇÃO POLONESA QUE CONSTRUIU UMA HISTÓRIA MARCANTE NO CS:GO, PRINCIPALMENTE COM SEU FAMOSO ELENCO POLONÊS. A EQUIPE CONQUISTOU IMPORTANTES TORNEIOS E SE TORNOU UMA DAS MAIS TRADICIONAIS DA ERA COMPETITIVA DO JOGO.";
+
+                pictureBox3.Visible = true;
+                pictureBox4.Visible = true;
+                pictureBox3.Image = Properties.Resources.virtus_time;
+                pictureBox4.Image = Properties.Resources.virtus_logo;
+            }
+            if (comboBox1.SelectedIndex == 3)
+            {
+                label5.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label5.Text = "ORGANIZAÇÃO QUE GANHOU DESTAQUE NO CENÁRIO COMPETITIVO DO CS2 COM UM ELENCO JOVEM E PROMISSOR. A EQUIPE PASSOU A DISPUTAR GRANDES TORNEIOS INTERNACIONAIS, MOSTRANDO EVOLUÇÃO E BUSCANDO SE CONSOLIDAR ENTRE OS PRINCIPAIS TIMES DO CENÁRIO.";
+
+                pictureBox3.Visible = true;
+                pictureBox4.Visible = true;
+                pictureBox3.Image = Properties.Resources.aurora_time;
+                pictureBox4.Image = Properties.Resources.aurora_logo2;
+            }
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked == true)
+            {
+                if (comboBox1.SelectedIndex == 0)
+                {
+                    label9.Visible = true;
+                    label9.Text = "fNx";
+                    pictureBox5.Visible = true;
+                    pictureBox5.Image = Properties.Resources.fnx;
+                }
+                else if (comboBox1.SelectedIndex == 1)
+                {
+                    label9.Visible = true;
+                    label9.Text = "shox";
+                    pictureBox5.Visible = true;
+                    pictureBox5.Image = Properties.Resources.shox;
+                }
+                else if (comboBox1.SelectedIndex == 2)
+                {
+                    label9.Visible = true;
+                    label9.Text = "FalleN";
+                    pictureBox5.Visible = true;
+                    pictureBox5.Image = Properties.Resources.fallen;
+                }
+                else if (comboBox1.SelectedIndex == 3)
+                {
+                    label9.Visible = true;
+                    label9.Text = "ZywOo";
+                    pictureBox5.Visible = true;
+                    pictureBox5.Image = Properties.Resources.zywoo;
+                }
+            }
+            else
+            {
+                pictureBox5.Visible = false;
+                label9.Visible = false;
+            }
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox2.Checked == true)
+            {
+                if (comboBox1.SelectedIndex == 0)
+                {
+                    label10.Visible = true;
+                    label10.Text = "f0rest";
+                    pictureBox6.Visible = true;
+                    pictureBox6.Image = Properties.Resources.forest;
+                }
+                else if (comboBox1.SelectedIndex == 1)
+                {
+                    label10.Visible = true;
+                    label10.Text = "RpK";
+                    pictureBox6.Visible = true;
+                    pictureBox6.Image = Properties.Resources.rpk;
+                }
+                else if (comboBox1.SelectedIndex == 2)
+                {
+                    label10.Visible = true;
+                    label10.Text = "s1mple";
+                    pictureBox6.Visible = true;
+                    pictureBox6.Image = Properties.Resources.s1mple;
+                }
+                else if (comboBox1.SelectedIndex == 3)
+                {
+                    label10.Visible = true;
+                    label10.Text = "donk";
+                    pictureBox6.Visible = true;
+                    pictureBox6.Image = Properties.Resources.donk;
+                }
+            }
+            else
+            {
+                pictureBox6.Visible = false;
+                label10.Visible = false;
+            }
+        }
+
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox3.Checked == true)
+            {
+                if (comboBox1.SelectedIndex == 0)
+                {
+                    label11.Visible = true;
+                    label11.Text = "markeloff";
+                    pictureBox8.Visible = true;
+                    pictureBox8.Image = Properties.Resources.markeloff;
+                }
+                else if (comboBox1.SelectedIndex == 1)
+                {
+                    label11.Visible = true;
+                    label11.Text = "kennyS";
+                    pictureBox8.Visible = true;
+                    pictureBox8.Image = Properties.Resources.kenny;
+                }
+                else if (comboBox1.SelectedIndex == 2)
+                {
+                    label11.Visible = true;
+                    label11.Text = "karrigan";
+                    pictureBox8.Visible = true;
+                    pictureBox8.Image = Properties.Resources.karrigan;
+                }
+                else if (comboBox1.SelectedIndex == 3)
+                {
+                    label11.Visible = true;
+                    label11.Text = "m0NESY";
+                    pictureBox8.Visible = true;
+                    pictureBox8.Image = Properties.Resources.m0nesy;
+                }
+            }
+            else
+            {
+                pictureBox8.Visible = false;
+                label11.Visible = false;
+            }
+        }
+
+        private void checkBox4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox4.Checked == true)
+            {
+                if (comboBox1.SelectedIndex == 0)
+                {
+                    label13.Visible = true;
+                    label13.Text = "TaZ";
+                    pictureBox7.Visible = true;
+                    pictureBox7.Image = Properties.Resources.taz;
+                }
+                else if (comboBox1.SelectedIndex == 1)
+                {
+                    label13.Visible = true;
+                    label13.Text = "Skadoodle";
+                    pictureBox7.Visible = true;
+                    pictureBox7.Image = Properties.Resources.skadoodle;
+                }
+                else if (comboBox1.SelectedIndex == 2)
+                {
+                    label13.Visible = true;
+                    label13.Text = "NiKo";
+                    pictureBox7.Visible = true;
+                    pictureBox7.Image = Properties.Resources.niko;
+                }
+                else if (comboBox1.SelectedIndex == 3)
+                {
+                    label13.Visible = true;
+                    label13.Text = "ropz";
+                    pictureBox7.Visible = true;
+                    pictureBox7.Image = Properties.Resources.ropz;
+                }
+            }
+            else
+            {
+                label13.Visible = false;
+                pictureBox7.Visible = false;
+            }
+        }
+
+        private void checkBox5_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox5.Checked == true)
+            {
+                if (comboBox1.SelectedIndex == 0)
+                {
+                    label12.Visible = true;
+                    label12.Text = "SpawN";
+                    pictureBox10.Visible = true;
+                    pictureBox10.Image = Properties.Resources.spawn;
+                }
+                else if (comboBox1.SelectedIndex == 1)
+                {
+                    label12.Visible = true;
+                    label12.Text = "ScreaM";
+                    pictureBox10.Visible = true;
+                    pictureBox10.Image = Properties.Resources.scream;
+                }
+                else if (comboBox1.SelectedIndex == 2)
+                {
+                    label12.Visible = true;
+                    label12.Text = "GeT_RiGhT";
+                    pictureBox10.Visible = true;
+                    pictureBox10.Image = Properties.Resources.get_right;
+                }
+                else if (comboBox1.SelectedIndex == 3)
+                {
+                    label12.Visible = true;
+                    label12.Text = "molodoy";
+                    pictureBox10.Visible = true;
+                    pictureBox10.Image = Properties.Resources.molodoy;
+                }
+            }
+            else
+            {
+                label12.Visible = false;
+                pictureBox10.Visible = false;
+            }
+        }
+
+        private void checkBox6_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox6.Checked == true)
+            {
+                if (comboBox1.SelectedIndex == 0)
+                {
+                    label14.Visible = true;
+                    label14.Text = "HeatoN";
+                    pictureBox9.Visible = true;
+                    pictureBox9.Image = Properties.Resources.heaton;
+                }
+                else if (comboBox1.SelectedIndex == 1)
+                {
+                    label14.Visible = true;
+                    label14.Text = "Ex6TenZ";
+                    pictureBox9.Visible = true;
+                    pictureBox9.Image = Properties.Resources.ex6tenz;
+                }
+                else if (comboBox1.SelectedIndex == 2)
+                {
+                    label14.Visible = true;
+                    label14.Text = "Boombl4";
+                    pictureBox9.Visible = true;
+                    pictureBox9.Image = Properties.Resources.boombl4;
+                }
+                else if (comboBox1.SelectedIndex == 3)
+                {
+                    label14.Visible = true;
+                    label14.Text = "XANTARES";
+                    pictureBox9.Visible = true;
+                    pictureBox9.Image = Properties.Resources.xantares;
+                }
+            }
+            else
+            {
+                label14.Visible = false;
+                pictureBox9.Visible = false;
+            }
+        }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
         }
     }
 
